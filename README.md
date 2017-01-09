@@ -1,8 +1,8 @@
-JSONSelect is *EXPERIMENTAL*, *ALPHA*, etc.
+## This repo is a duplicate of the original, waiting jsonselect.org to be up
 
 JSONSelect defines a selector language similar to CSS intended for
 JSON documents.  For an introduction to the project see
-[jsonselect.org](http://jsonselect.org) or the [documentation](https://github.com/lloyd/JSONSelect/blob/master/JSONSelect.md).
+[jsonselect.org](https://matthd.github.io/JSONSelect/#tryit) or the [documentation](https://github.com/lloyd/JSONSelect/blob/master/JSONSelect.md).
 
 ## Project Overview
 
